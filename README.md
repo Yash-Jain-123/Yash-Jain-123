@@ -1,5 +1,4 @@
 Hi there 👋
-
 I’m currently working on Full Stack Web Development
 
 <!--
