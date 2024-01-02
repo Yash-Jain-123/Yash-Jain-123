@@ -9,7 +9,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="java" width="30" height="30"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="30" height="30"/></a></p>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/></a> 
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-jain-123&show_icons=true&locale=en&layout=compact" alt="yash-jain-123" /></p> <p><img align="center" width="495" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain-123&" alt="yash-jain-123" /></p>
 
