@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yashjain-11m" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="yashjain-11m" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/yashjain-11m" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="yashjain-11m" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
