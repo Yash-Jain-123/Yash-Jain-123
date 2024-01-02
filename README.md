@@ -10,10 +10,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="java" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/></a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-jain-123&show_icons=true&locale=en&layout=compact" alt="yash-jain-123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain-123&" alt="yash-jain-123" /></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-jain-123&show_icons=true&locale=en&layout=compact" alt="yash-jain-123" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain-123&" alt="yash-jain-123" /></p>
 
 
 
