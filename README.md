@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi 👋, I'm yash jain</h1>
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-jain-123&label=Profile%20views&color=0e75b6&style=flat" alt="yash-jain-123" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yashjain-11m" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="yashjain-11m" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="java" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-jain-123&show_icons=true&locale=en&layout=compact" alt="yash-jain-123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain-123&" alt="yash-jain-123" /></p>
+
+
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh212&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh212" /> </p>
