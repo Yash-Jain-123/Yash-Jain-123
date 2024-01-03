@@ -7,6 +7,7 @@
 <a href="https://twitter.com/yash_jain11m" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/x-new-social-network-black-app-icon-twitter-rebranded-as-x-twitter-s-logo-was-changed_277909-568.jpg" alt="yash_jain11m" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/yashjain_12m" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="yashjain_12m" height="30" width="30" /></a>
 <a href="mailto:yashjain.14m@gmail.com" target="blank"><img align="center" src="https://thumbs.dreamstime.com/b/logo-icon-vector-logos-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-paper-texture-glossy-emblem-wallpaper-210442689.jpg" alt="yashjain_12m" height="30" width="30" /></a>
+ <a href="https://hashnode.com/@yashjain11m" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1619605440273/S3_X4Rf7V.jpeg" alt="@yashjain11m" height="30" width="30"/></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
